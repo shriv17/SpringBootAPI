@@ -15,7 +15,7 @@
         <version>1.5.3.RELEASE</version>
     </parent>
 
-    <!-- Add typical dependencies for a web application -->
+    <!-- Add typical dependencies for a apition -->
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
